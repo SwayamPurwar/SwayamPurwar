@@ -1,5 +1,7 @@
 # Hi, I'm Swayam Purwar 👋  
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;Problem+Solver;Always+Learning&center=true&width=500&height=45">
+</p>
 <p align="center">
   <em>Software Engineer in Progress 🚀 | MERN Stack Developer</em>
 </p>
