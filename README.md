@@ -16,72 +16,79 @@
 
 ## 🧭 Engineering Profile
 
-- 🎓 BCA @ LNCT University  
+- 🎓 Bachelor of Computer Applications (BCA), LNCT University  
 - ⚙️ Specializing in MERN Stack with system-level thinking  
-- 🧠 Strong focus on DSA, problem-solving, and clean architecture  
-- 📈 Builder mindset: consistency, discipline, long-term growth  
+- 🧠 Strong focus on Data Structures & Algorithms  
+- 📈 Execution-driven mindset: consistency, discipline, ownership  
 - 📍 Bhopal, India  
-- 🤝 Open to internships & high-impact engineering teams
+- 🤝 Open to internships, collaborations, and engineering opportunities
 
 ---
 
-## 🛠️ Tech Stack & Engineering Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode" />
 </p>
 
 ---
 
 ## ⚙️ Engineering Capabilities
 
-- Frontend Engineering → Responsive UI, component-based architecture  
-- Backend Development → REST APIs, server-side logic, routing  
-- Database Design → MongoDB schema structuring & optimization  
-- Version Control → Structured Git workflows  
-- Code Quality → Modular, readable, scalable code practices  
+- Frontend Engineering  
+  Responsive UI, reusable components, clean UX patterns  
+
+- Backend Development  
+  REST APIs, routing, middleware architecture  
+
+- Database Design  
+  MongoDB schema design, structured data handling  
+
+- Version Control & Workflow  
+  Git-based collaboration, clean commit practices  
+
+- Code Quality  
+  Modular architecture, readability, scalability focus  
 
 ---
 
 ## 🚀 Highlight Projects
 
 ### 🔹 SP.DEV — Developer Portfolio  
-Positioning: Personal brand + technical showcase  
-- Performance-focused responsive design  
+Focus: Personal branding + performance  
+- Responsive, fast-loading UI  
 - Structured project presentation  
-- Clean UI with strong UX fundamentals  
+- Clean and minimal design  
 
 👉 https://github.com/SwayamPurwar/SP.DEV  
 
 ---
 
-### 🔹 Instagram Clone — Social Platform UI  
-Positioning: UI Engineering + State Handling  
-- Replicated core Instagram workflows  
-- Dynamic rendering & interactive UI logic  
-- Focus on real-world frontend patterns  
+### 🔹 Instagram Clone — Social Media UI  
+Focus: Frontend architecture  
+- Dynamic UI rendering  
+- Component-based design  
+- Real-world interaction patterns  
 
 👉 https://github.com/SwayamPurwar/Instagram  
 
 ---
 
 ### 🔹 Kite Zerodha Clone — Trading Dashboard  
-Positioning: Complex UI Structuring  
-- Dashboard-driven architecture  
-- Financial UI patterns replication  
-- Emphasis on layout precision & usability  
+Focus: Complex UI structuring  
+- Dashboard layout engineering  
+- Financial UI replication  
+- High attention to usability  
 
 👉 https://github.com/SwayamPurwar/Kite-Zerodha  
 
 ---
 
-### 🔹 Apple Music Clone — Media UI  
-Positioning: UX + Interface Design  
-- Interactive music interface  
-- Responsive and smooth UI transitions  
-- Clean component structuring  
+### 🔹 Apple Music Clone — Media Interface  
+Focus: UX & interactivity  
+- Responsive UI  
+- Smooth interaction flow  
+- Clean component hierarchy  
 
 👉 https://github.com/SwayamPurwar/Apple-Music  
 
@@ -92,7 +99,7 @@ Positioning: UX + Interface Design
 - 🧠 Mastering Data Structures & Algorithms (DSA)  
 - ⚙️ Building end-to-end full-stack applications  
 - 🏗️ Learning system design fundamentals  
-- 🔁 Improving code consistency & engineering discipline
+- 🔁 Improving engineering discipline & consistency
 
 ---
 
@@ -102,6 +109,8 @@ Positioning: UX + Interface Design
   <img src="https://github-readme-stats.vercel.app/api?username=SwayamPurwar&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwayamPurwar&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwayamPurwar&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -109,10 +118,10 @@ Positioning: UX + Interface Design
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://swayampurwar.vercel.app">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/SwayamPurwar">LinkedIn</a> •
-  <a href="https://x.com/swayampurwar">X</a> •
-  <a href="https://www.instagram.com/swayam_purwar">Instagram</a>
+  <a href="https://swayampurwar.vercel.app">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/SwayamPurwar">💼 LinkedIn</a> •
+  <a href="https://x.com/swayampurwar">🐦 X</a> •
+  <a href="https://www.instagram.com/swayam_purwar">📸 Instagram</a>
 </p>
 
 ---
@@ -120,5 +129,15 @@ Positioning: UX + Interface Design
 ## ⚡ Engineering Philosophy
 
 > Discipline beats motivation.  
-> Systems beat hacks.  
-> Consistency builds engineers.
+> Systems beat shortcuts.  
+> Consistency builds great engineers.
+
+---
+
+## 🧪 Future Roadmap
+
+- Build production-grade full-stack applications  
+- Implement authentication & authorization systems (JWT, OAuth)  
+- Deploy scalable apps using cloud platforms  
+- Strengthen DSA + problem-solving depth  
+- Contribute to open source projects
