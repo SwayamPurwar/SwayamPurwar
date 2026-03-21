@@ -1,109 +1,124 @@
-# Hi, I'm Swayam Purwar 👋  
+# 👋 Hi, I'm Swayam Purwar  
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;Problem+Solver;Always+Learning&center=true&width=500&height=45">
-</p>
-<p align="center">
-  <em>Software Engineer in Progress 🚀 | MERN Stack Developer</em>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer;MERN+Stack+Specialist;Building+Scalable+Systems;Consistent+Executor&center=true&width=520&height=45">
 </p>
 
 <p align="center">
-  <strong>Building what others hesitate to start.</strong> ⚡
+  <strong>Full-Stack Engineer (MERN) • Focused on Scalable, Production-Ready Systems</strong>
+</p>
+
+<p align="center">
+  <em>I don’t just build features — I engineer reliable, maintainable systems.</em>
 </p>
 
 ---
 
-## 👨‍💻 Professional Snapshot
+## 🧭 Engineering Profile
 
-- 🎓 Pursuing **Bachelor of Computer Applications (BCA)** at LNCT University  
-- 💡 Focused on **full-stack web development** with production-level thinking  
-- 🧠 Strong inclination toward **problem-solving and scalable architecture**  
-- 📍 Based in **Bhopal, India**  
-- 🤝 Open to **collaboration, internships, and impactful projects**
-
----
-
-## 🛠️ Technical Expertise
-
-### **Core Technologies**
-- JavaScript (ES6+)
-- HTML5, CSS3
-
-### **Frameworks & Stack**
-- **MERN Stack**  
-  MongoDB • Express.js • React.js • Node.js  
-
-### **Developer Tooling**
-- Git & GitHub  
-- VS Code  
-- REST APIs  
+- 🎓 BCA @ LNCT University  
+- ⚙️ Specializing in MERN Stack with system-level thinking  
+- 🧠 Strong focus on DSA, problem-solving, and clean architecture  
+- 📈 Builder mindset: consistency, discipline, long-term growth  
+- 📍 Bhopal, India  
+- 🤝 Open to internships & high-impact engineering teams
 
 ---
 
-## 🚀 Key Projects
+## 🛠️ Tech Stack & Engineering Tools
 
-### 🔹 SP.DEV  
-**Personal Developer Portfolio**  
-- Showcases projects, skills, and development journey  
-- Built with a focus on clean UI and performance  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode" />
+
+</p>
+
+---
+
+## ⚙️ Engineering Capabilities
+
+- Frontend Engineering → Responsive UI, component-based architecture  
+- Backend Development → REST APIs, server-side logic, routing  
+- Database Design → MongoDB schema structuring & optimization  
+- Version Control → Structured Git workflows  
+- Code Quality → Modular, readable, scalable code practices  
+
+---
+
+## 🚀 Highlight Projects
+
+### 🔹 SP.DEV — Developer Portfolio  
+Positioning: Personal brand + technical showcase  
+- Performance-focused responsive design  
+- Structured project presentation  
+- Clean UI with strong UX fundamentals  
 
 👉 https://github.com/SwayamPurwar/SP.DEV  
 
 ---
 
-### 🔹 Instagram Clone  
-**Social Media Web Application**  
-- Core UI/UX inspired by Instagram  
-- Focus on frontend logic and interactivity  
+### 🔹 Instagram Clone — Social Platform UI  
+Positioning: UI Engineering + State Handling  
+- Replicated core Instagram workflows  
+- Dynamic rendering & interactive UI logic  
+- Focus on real-world frontend patterns  
 
 👉 https://github.com/SwayamPurwar/Instagram  
 
 ---
 
-### 🔹 Kite-Zerodha  
-**Trading Platform Interface Clone**  
-- Replicates real-world fintech UI patterns  
-- Strong emphasis on dashboard structuring  
+### 🔹 Kite Zerodha Clone — Trading Dashboard  
+Positioning: Complex UI Structuring  
+- Dashboard-driven architecture  
+- Financial UI patterns replication  
+- Emphasis on layout precision & usability  
 
 👉 https://github.com/SwayamPurwar/Kite-Zerodha  
 
 ---
 
-### 🔹 Apple Music Clone  
-**Frontend Music Player UI**  
-- Interactive UI with clean design principles  
-- Focused on responsiveness and user experience  
+### 🔹 Apple Music Clone — Media UI  
+Positioning: UX + Interface Design  
+- Interactive music interface  
+- Responsive and smooth UI transitions  
+- Clean component structuring  
 
 👉 https://github.com/SwayamPurwar/Apple-Music  
 
 ---
 
-## 📈 What I’m Working On
+## 📈 Current Focus
 
-- Advancing **full-stack architecture skills**  
-- Building **real-world scalable applications**  
-- Strengthening **DSA and problem-solving fundamentals**  
+- 🧠 Mastering Data Structures & Algorithms (DSA)  
+- ⚙️ Building end-to-end full-stack applications  
+- 🏗️ Learning system design fundamentals  
+- 🔁 Improving code consistency & engineering discipline
 
 ---
 
-## 📫 Connect & Collaborate
+## 📊 GitHub Performance
 
 <p align="center">
-  <a href="https://swayampurwar.vercel.app">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/SwayamPurwar">💼 LinkedIn</a> •
-  <a href="https://x.com/swayampurwar">🐦 X</a> •
-  <a href="https://www.instagram.com/swayam_purwar">📸 Instagram</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SwayamPurwar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwayamPurwar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 🤝 Connect
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwayamPurwar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <a href="https://swayampurwar.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/SwayamPurwar">LinkedIn</a> •
+  <a href="https://x.com/swayampurwar">X</a> •
+  <a href="https://www.instagram.com/swayam_purwar">Instagram</a>
+</p>
 
 ---
 
-## ⚡ Final Note
+## ⚡ Engineering Philosophy
 
-> I don’t just build projects — I build **capability, consistency, and discipline**.
+> Discipline beats motivation.  
+> Systems beat hacks.  
+> Consistency builds engineers.
