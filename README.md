@@ -122,6 +122,5 @@
 ## 🧪 Future Roadmap
 
 - [ ] Deploy highly scalable apps using AWS/GCP cloud platforms.
-- [ ] Implement advanced authentication & authorization systems (JWT, OAuth).
 - [ ] Contribute to major open-source projects.
 - [ ] Publish academic and technical findings based on my ongoing thesis research.
