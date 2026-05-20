@@ -59,26 +59,31 @@
 - Implemented complex features including automated PR reviews (Llama 3.3 70B), code health analytics, and real-time SSE streaming.
 - Built with Next.js 15, TypeScript, Neon DB (PostgreSQL), Groq AI, and Clerk Auth.                     
 👉 [View Repository](https://github.com/SwayamPurwar/RepoSage-Prime)
+👉 [Live Demo](https://swayampurwar-repo-sage-prime.vercel.app)
 
 ### 🔹 SP.DEV — Developer Portfolio  
 *Focus: Personal branding + web performance* - Responsive, fast-loading user interface.
 - Structured project presentation with a clean, minimal UI/UX design.  
 👉 [View Repository](https://github.com/SwayamPurwar/SP.DEV)  
+👉 [Live Demo](https://swayampurwar.vercel.app)
 
-### 🔹 Kite Zerodha Clone — Trading Dashboard  
+### 🔹 Swayam Capital — Trading Dashboard  
 *Focus: Complex UI structuring & Financial Tech* - Dashboard layout engineering tailored for financial products and services.
 - Highly accurate financial UI replication with a strict attention to usability and state management.  
-👉 [View Repository](https://github.com/SwayamPurwar/Kite-Zerodha)  
+👉 [View Repository](https://github.com/SwayamPurwar/Swayam-Capital)  
+👉 [Live Demo](https://swayamcapital.vercel.app)
 
 ### 🔹 Instagram Clone — Social Media UI  
 *Focus: Frontend architecture* - Dynamic UI rendering and component-based design.
 - Implementation of real-world social interaction patterns.  
 👉 [View Repository](https://github.com/SwayamPurwar/Instagram)  
+👉 [Live Demo](https://swayaminstagram.vercel.app)
 
 ### 🔹 Apple Music Clone — Media Interface  
 *Focus: UX & interactivity* - Seamless, responsive UI with smooth interaction flows.
 - Clean component hierarchy for media consumption.  
 👉 [View Repository](https://github.com/SwayamPurwar/Apple-Music)  
+👉 [Live Demo](https://swayam-apple-music.vercel.app)
 
 ---
 
