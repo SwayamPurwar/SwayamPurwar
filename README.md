@@ -20,19 +20,20 @@
 
 ## 🧭 Engineering Profile
 
-- 🎓 **Academics:** Bachelor of Computer Applications (BCA), LNCT University — Currently working on my thesis.
-- ⚙️ **Core Focus:** Specializing in the MERN Stack with a strong emphasis on website development, UI/UX design, and system-level thinking.
-- 🧠 **Problem Solving:** Strong foundation in Data Structures & Algorithms and computer-oriented statistical methods.
+- 🎓 **Academics:** Bachelor of Computer Applications (BCA), LNCT University (CGPA: 8.21/10), with a strong foundation in Software Engineering, DBMS, Operating Systems, and Web Technologies.
+- ⚙️ **Core Focus:** Full-Stack Development using React.js, Next.js, Node.js, Express.js, and MongoDB, with experience building scalable web applications and AI-powered platforms.
+- 🧠 **Problem Solving:** Strong understanding of Data Structures & Algorithms, Object-Oriented Programming, and computer-oriented statistical methods.
+- 🚀 **Engineering Interests:** Real-time systems, REST APIs, AI integrations, modern frontend architecture, and performance optimization.
 - 📈 **Mindset:** Execution-driven approach prioritizing consistency, discipline, and ownership.
 - 📍 **Location:** Bhopal, India.
-- 🤝 **Open To:** Internships, collaborations, and full-time engineering opportunities.
+- 🤝 **Open To:** Software Engineering roles, Full-Stack Development opportunities, freelance collaborations, and innovative technology projects.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,html,css,git,github,vscode&perline=13" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,html,css,git,github,vscode&perline=13" />
 </p>
 
 ---
