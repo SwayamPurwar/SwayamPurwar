@@ -20,7 +20,7 @@
 
 ## 🧭 Engineering Profile
 
-- 🎓 **Academics:** Pursuing Master of Computer Applications (MCA) at MIT World Peace University, Pune. Holds a Bachelor of Computer Applications (BCA)rom LNCT University (CGPA: 8.21/10), with a strong foundation in Software Engineering, DBMS, Operating Systems, and Web Technologies.
+- 🎓 **Academics:** Pursuing Master of Computer Applications (MCA) at MIT World Peace University, Pune. Holds a Bachelor of Computer Applications (BCA) from LNCT University (CGPA: 8.21/10), with a strong foundation in Software Engineering, DBMS, Operating Systems, and Web Technologies.
 - ⚙️ **Core Focus:** Full-Stack Development using React.js, Next.js, Node.js, Express.js, and MongoDB, with experience building scalable web applications and AI-powered platforms.
 - 🧠 **Problem Solving:** Strong understanding of Data Structures & Algorithms, Object-Oriented Programming, and computer-oriented statistical methods.
 - 🚀 **Engineering Interests:** Real-time systems, REST APIs, AI integrations, modern frontend architecture, and performance optimization.
