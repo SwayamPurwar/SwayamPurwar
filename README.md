@@ -25,7 +25,7 @@
 - 🧠 **Problem Solving:** Strong understanding of Data Structures & Algorithms, Object-Oriented Programming, and computer-oriented statistical methods.
 - 🚀 **Engineering Interests:** Real-time systems, REST APIs, AI integrations, modern frontend architecture, and performance optimization.
 - 📈 **Mindset:** Execution-driven approach prioritizing consistency, discipline, and ownership.
-- 📍 **Location:** Chennai, India.
+- 📍 **Location:** Pune, India.
 - 🤝 **Open To:** Software Engineering roles, Full-Stack Development opportunities, freelance collaborations, and innovative technology projects.
 
 ---
