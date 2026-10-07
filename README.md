@@ -78,7 +78,7 @@
 *Focus: Frontend architecture* - Dynamic UI rendering and component-based design.
 - Implementation of real-world social interaction patterns.  
 👉 [View Repository](https://github.com/SwayamPurwar/Instagram)  
-👉 [Live Demo](https://swayaminstagram.vercel.app)
+👉 [Live Demo](https://swayaminstagramnew.vercel.app)
 
 ### 🔹 Apple Music Clone — Media Interface  
 *Focus: UX & interactivity* - Seamless, responsive UI with smooth interaction flows.
