@@ -101,11 +101,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SwayamPurwar&theme=tokyo-night&hide_border=true&bg_color=0D1117"
+    src="https://raw.githubusercontent.com/SwayamPurwar/SwayamPurwar/output/activity-graph.svg"
     alt="Swayam Purwar's GitHub Activity Graph"
     width="100%"
   />
 </p>
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=SwayamPurwar&theme=tokyonight&hide_border=true&background=0D1117"
