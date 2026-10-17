@@ -100,10 +100,18 @@
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwayamPurwar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SwayamPurwar&theme=tokyo-night&hide_border=true&bg_color=0D1117"
+    alt="Swayam Purwar's GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwayamPurwar&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="97%" />
+  <img
+    src="https://streak-stats.demolab.com/?user=SwayamPurwar&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="Swayam Purwar's GitHub Streak Stats"
+    width="70%"
+  />
 </p>
 
 ---
